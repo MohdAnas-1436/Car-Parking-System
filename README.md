@@ -1,5 +1,3 @@
----
-
 # 🚗 Car-Parking-System
 
 > **A real-time distance detection system that mimics a car's reverse parking sensor using ultrasonic waves.**

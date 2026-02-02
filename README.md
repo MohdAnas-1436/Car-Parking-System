@@ -1,10 +1,6 @@
-Here is a professional, visually appealing `README.md` template for your project. You can copy-paste this directly into your GitHub repository.
-
-I have included **badges, emojis, clear headings, and a section for your Wokwi simulation link** to make it stand out.
-
 ---
 
-# 🚗 Arduino Parking Sensor (Distance Alarm)
+# 🚗 Car-Parking-System
 
 > **A real-time distance detection system that mimics a car's reverse parking sensor using ultrasonic waves.**
 
